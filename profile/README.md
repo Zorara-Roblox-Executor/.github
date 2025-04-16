@@ -3,7 +3,7 @@
 ### **About Zorara Executor 🌐**  
 Zorara is a **keyless Roblox script executor** designed for **speed**, **stability**, and **user-friendly scripting**. It enables seamless execution of **custom Lua scripts** while maintaining **zero lag** and **top-tier security** . Perfect for developers and gamers looking to enhance their Roblox experience!  
 
-[![Download Zorara](https://img.shields.io/badge/Download-SolaraV3-blueviolet)](https://rblxexecutors.github.io/executors/zorara/)
+[![Download Zorara](https://img.shields.io/badge/Download-Zorara-blueviolet)](https://rblxexecutors.github.io/executors/zorara/)
 ---
 
 ### **Key Features 🌟**  
